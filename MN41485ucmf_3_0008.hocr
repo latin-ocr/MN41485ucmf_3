@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN41485ucmf_3_0008.png"; bbox 0 0 1989 2832; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 150 442 961 735">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 150 442 961 735">
+     <span class='ocr_line' id='line_1_1' title="bbox 150 442 961 735; baseline -0.01 -49"><span class='ocrx_word' id='word_1_1' title='bbox 150 442 674 735; x_wconf 77' lang='lat' dir='ltr'>Winzer‚</span> <span class='ocrx_word' id='word_1_2' title='bbox 727 443 961 684; x_wconf 85' lang='lat' dir='ltr'>Juli</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 153 1216 984 1905">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 153 1216 984 1905">
+     <span class='ocr_line' id='line_1_2' title="bbox 153 1216 984 1455; baseline -0.001 -5"><span class='ocrx_word' id='word_1_3' title='bbox 153 1227 553 1455; x_wconf 82' lang='lat' dir='ltr'>Locus</span> <span class='ocrx_word' id='word_1_4' title='bbox 603 1216 984 1454; x_wconf 79' lang='lat' dir='ltr'>Paulli</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 153 1611 974 1905; baseline 0.005 -71"><span class='ocrx_word' id='word_1_5' title='bbox 153 1611 775 1838; x_wconf 83' lang='lat' dir='ltr'>Romanos</span> <span class='ocrx_word' id='word_1_6' title='bbox 828 1678 974 1905; x_wconf 82' lang='lat' dir='ltr'>ep</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1007 2832">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1007 2832">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1007 2832; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1007 2832; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 155 2373 986 2680">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 155 2373 986 2680">
+     <span class='ocr_line' id='line_1_5' title="bbox 155 2373 986 2680; baseline -0.004 -71"><span class='ocrx_word' id='word_1_8' title='bbox 155 2373 694 2680; x_wconf 78' lang='lat' dir='ltr'><strong>Leipzig,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 763 2378 986 2610; x_wconf 79' lang='lat'>182</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
